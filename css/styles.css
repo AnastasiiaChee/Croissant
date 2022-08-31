@@ -9,9 +9,13 @@ h1 {
 footer {
   text-align: center;
 }
-a {
+footer a {
   margin: 0 10px;
+  color: rgb(63, 105, 67);
+  text-decoration: none;
 }
+
+
 p {
   text-align: center;
 }
