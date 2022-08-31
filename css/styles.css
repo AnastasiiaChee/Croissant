@@ -1,0 +1,25 @@
+body {
+  background-color: blanchedalmond;
+}
+
+h1 {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+a {
+  margin: 0 10px;
+}
+p {
+  text-align: center;
+}
+img {
+  text-align: center;
+}
+.croissant {
+  max-width: 100%;
+  border-radius: 60%;
+  display: block;
+  margin: 30px auto;
+}
